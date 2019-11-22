@@ -2,6 +2,8 @@
 
 # python venv folder
 venv
+# vscode folder
+.vscode
 
 # Created by https://www.gitignore.io/api/python,visualstudiocode
 # Edit at https://www.gitignore.io/?templates=python,visualstudiocode
